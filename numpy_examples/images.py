@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import os
 from PIL import Image
 
 
@@ -10,4 +9,11 @@ def images_processing():
     pic_arr = np.asarray(pic)
     print(pic_arr)
     print(pic_arr.shape)
+
+    plt.imshow(pic_arr)
+
+    pic_red = pic_arr.copy()
+
+    # R G B
+    pic_red = pic_red[:, :, 1]
 
