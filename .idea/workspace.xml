@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff3477e4-61f5-4026-93f0-3390bc08f1ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/drawing_images.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OpenCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OpenCV.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy_examples/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_examples/images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy_examples/opencv_outside_jupyter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_examples/opencv_outside_jupyter.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drawing_images.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/drawing_images.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/drawing_images.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="3" />
+              <selected id="10" />
             </state>
           </provider>
         </entry>
@@ -285,12 +280,12 @@
       <option name="presentableId" value="Default" />
       <updated>1544302248273</updated>
       <workItem from="1544302251515" duration="6730000" />
-      <workItem from="1544496656677" duration="653000" />
+      <workItem from="1544496656677" duration="1218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7383000" />
+    <option name="totallyTimeSpent" value="7948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="108" width="1920" height="2052" extended-state="0" />
@@ -358,7 +353,7 @@
     <entry file="file://$PROJECT_DIR$/drawing_images.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="3" />
+          <selected id="10" />
         </state>
       </provider>
     </entry>
