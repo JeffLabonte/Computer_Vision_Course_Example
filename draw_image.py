@@ -8,11 +8,12 @@ import numpy as np
 
 def draw_circle(event, x, y ,flags, param):
     if event == cv2.EVENT_LBUTTONDBLCLK:
-        cv2.circle(img=img, center=(x, y), radius=10, color=(0, 255, 0), thickness=-1)
+        cv2.circle(img=img, center=(x, y), radius=100, color=(0, 255, 0), thickness=-1)
+    elif event == cv2.EVENT_RBUTTONDBLCLK:
+        cv2.circle(img=img, center=(x, y), radius=100, color=(255, 0, 0), thickness=-1)
 
 
 cv2.namedWindow(winname="drawing")
-
 cv2.setMouseCallback("drawing", draw_circle)
 """
     Showing the image with OpenCV
